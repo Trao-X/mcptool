@@ -1,8 +1,6 @@
 <h1 align="center"> 🧨 MCPTool v1.0.3
-<h3 align="center"> Pentesting tool for Minecraft </h2>
-<img align="center" src="https://i.imgur.com/GqkwN7v.png" alt="MCPTool" title="MCPTool" style="max-width: 100%; height: auto;">
-
-<h4 align="center">This project was created for educational purposes and should not be used in environments without legal authorization.</p>
+<h3 align="center"> Pentesting tool for Minecraft! </h2>
+<img align="center" src="https://i.imgur.com/Es3IuZw.png" alt="MCPTool" title="MCPTool" style="max-width: 100%; height: auto;">
 
 # 🛠 Features
 * Get information from servers
@@ -19,21 +17,21 @@
 * Connect to the RCON of a server
 * Perform a brute force attack on the RCON service
 * Perform a brute force attack on the user of a non-premium/semi-premium server
-* Kick players with bots thanks to 'You are logged in from a different location'
+* Kick players with bots because of 'You are logged in from a different location'
 * Support for multiple languages.
 
-## 💻 Supported operating systems:
+## 💻 Supported Operating Systems:
 
 * ✅ Windows (8, 8.1, 10 and 11)
 * ✅ Linux
 * ✅ Termux
 * ✅ Mac
 
-## ⛏️ Supported minecraft versions
+## ⛏️ Supported Minecraft Versions:
 
 * 📃 1.8.x-1.20.x
 
-## Available languages
+## 🌐 Available Languages:
 
 - **EN**
 - **TR**
@@ -44,20 +42,19 @@
 - **PT** (Coming soon)
 - **CAT** (Coming soon)
 
-## Documentation
+## 📜 Documentation:
+You can find the MCPTool documentation in the [Documentation Folder](./docs).
 
-You can find the MCPTool documentation in the [docs folder](./docs).
+## 📩 Downloading & Installing:
+All the information about installing and downloading is [here](./docs/installation.MD).
 
-## Download
-All the information about the installation is [here](./docs/instalation.MD)
-
-## 🕹 Usage
+## 🕹 Usage:
 Use the `mcptool` command in the terminal.
 
-## 🔗 Discord Server
-Enter the discord server with this [link](https://discord.gg/TWKs6BWkR2)
+## 🔗 Discord Server:
+Enter the Discord server by using this [link](https://discord.gg/TWKs6BWkR2).
 
-## Minecraft Libraries Used
+## 📚 Used Libraries:
 * MCStatus [Github](https://github.com/py-mine/mcstatus)
 * Mineflayer [Github](https://github.com/PrismarineJS/mineflayer)
 * Mcrcon [Github](https://github.com/uncaught-exceptions/mcrcon)
